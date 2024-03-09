@@ -23,17 +23,10 @@ Terminal ;-)
 
 ## About
 
-This Jekyll website came about in response to beginner computer science
-students arriving with little or no experience of using their computers on a
-system level. Some come to college already having hacked their own distro of
-Ubuntu, but others might never typed a command in their lives. That's OK: you
-didn't need to. Until now.
+Many students come to college with little or no experience using their computers on a
+system level. That's OK: you didn't need to. Until now.
 
-Specifically, using browser-based learning means some competent autodidacts have
-learned to program entirely on the web (I'm looking at you 
-[codeskulptor](https://py3.codeskulptor.org)). Nothing wrong with this — on the
-contrary, it's amazing — but it means assumptions colleges make about students'
-tech exposure are much less reliable than they used to be.
+Specifically, search-based computer interfaces mean that some students leave every file and executable in their downloads folder. And using browser-based learning means some others have learned to program entirely on the web. It's worked so far, but there comes a time when students need to understand more, whether to more easily upload homework to Canvas, or to load data for analysis into an R or Python program.
 
 ## Jekyll
 
