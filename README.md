@@ -1,4 +1,4 @@
-# CompSci Superbasics
+# Computing Fundamentals
 
 If nobody has told you, it's not obvious that the tab key autocompletes on the
 command line... or even how to get there.
@@ -17,8 +17,8 @@ the really low-level things nobody told them about.
 
 :-)
 
-And yes I've seen CompSci professors on Macs bouncing on the left-arrow key
-because they didn't know about the Alt-click position-on-command-line trick in
+And yes, before we forked this repository at least one of us on a Mac bounced on the left-arrow key
+because we didn't know about the Alt-click position-on-command-line trick in
 Terminal ;-)
 
 ## About
