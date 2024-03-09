@@ -8,5 +8,7 @@ When you're starting programming, you need to know
 how to use your computer. And that doesn't just mean
 clicking on things. _Anyone_ can do that.
 
+Learn keyboard shortcuts, how folders (directories) work and how to navigate them, and how to keep your work organized.
+
 Get on top of the fundamentals!
 
