@@ -23,10 +23,11 @@ Terminal ;-)
 
 ## About
 
-Many students come to college with little or no experience using their computers on a
-system level. That's OK: you didn't need to. Until now.
+Many students come to college with little or no experience using their computers on a system level. That's OK: you didn't need to. Until now.
 
 Specifically, search-based computer interfaces mean that some students leave every file and executable in their downloads folder. And using browser-based learning means some others have learned to program entirely on the web. It's worked so far, but there comes a time when students need to understand more, whether to more easily upload homework to Canvas, or to load data for analysis into an R or Python program.
+
+This site is a copy of the [CompSci Superbasics site](https://github.com/davewhiteland/compsci-superbasics) adapted to the needs of University of Oregon students and faculty by UO Libraries.
 
 ## Jekyll
 
@@ -48,6 +49,3 @@ and the responsive hamburger is implemented using the
 label-of-hidden-checkbox CSS-only trick inspired by
 [Code Boxx'a css-ham-menu](https://code-boxx.com/).
 
-## Work in progress
-
-Work-in-Progress for 2020 — RHUL
