@@ -15,8 +15,10 @@ $red:               #ffdddd;
 $think-odd-color:   #ffeecc;
 $think-even-color:  #ffdddd;
 
-/* changes the color of the background */
+/* changes the color of the background, which is currently light gray */
 $body-bg-color:     #D8DcDA;
+
+/* changes the navigation bar's background color */
 $nav-bg-color:      #8ABB40;
 
 /* controls the color for every link in the entire site */
@@ -28,7 +30,7 @@ $link-hover:        #FEE11A;
 $link-focus-color:  #E40000;
 $topic-bg-color:    #FFFFFF;
 $topic-index-bg-color: $red;
-$footer-bg-color:    #fee11a;
+$footer-bg-color:    #8ABB40;
 
 // The hamburger icons is rigged with a dirty bit of hard-width 
 // and shameful z-index bodging too so it overlaps with the
