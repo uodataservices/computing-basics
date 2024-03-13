@@ -15,10 +15,15 @@ $red:               #ffdddd;
 $think-odd-color:   #ffeecc;
 $think-even-color:  #ffdddd;
 
-$body-bg-color:     #f2f2f2;
-$nav-bg-color:      $green;
-$link-color:        #FFFFFF;
+$body-bg-color:     #D8DcDA;
+$nav-bg-color:      #8ABB40;
+
+/* controls the color for every link in the entire site */
+$link-color:        #104735;
+
+/* controls the color for the link hover, which at this time I've changed to UO yellow */
 $link-hover:        #FEE11A;
+
 $link-focus-color:  #E40000;
 $topic-bg-color:    #FFFFFF;
 $topic-index-bg-color: $red;
