@@ -34,6 +34,7 @@ p {
 .main-content, footer {
   a {
     color: $link-color;
+    color: $link-color-dark;
     &:hover,
     &:focus {
       color: $link-focus-color;
