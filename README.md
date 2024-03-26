@@ -1,4 +1,4 @@
-# Computing Fundamentals
+# CompSci Superbasics
 
 If nobody has told you, it's not obvious that the tab key autocompletes on the
 command line... or even how to get there.
@@ -17,17 +17,23 @@ the really low-level things nobody told them about.
 
 :-)
 
-And yes, before we forked this repository at least one of us on a Mac bounced on the left-arrow key
-because we didn't know about the Alt-click position-on-command-line trick in
+And yes I've seen CompSci professors on Macs bouncing on the left-arrow key
+because they didn't know about the Alt-click position-on-command-line trick in
 Terminal ;-)
 
 ## About
 
-Many students come to college with little or no experience using their computers on a system level. That's OK: you didn't need to. Until now.
+This Jekyll website came about in response to beginner computer science
+students arriving with little or no experience of using their computers on a
+system level. Some come to college already having hacked their own distro of
+Ubuntu, but others might never typed a command in their lives. That's OK: you
+didn't need to. Until now.
 
-Specifically, search-based computer interfaces mean that some students leave every file and executable in their downloads folder. And using browser-based learning means some others have learned to program entirely on the web. It's worked so far, but there comes a time when students need to understand more, whether to more easily upload homework to Canvas, or to load data for analysis into an R or Python program.
-
-This site is a copy of the [CompSci Superbasics site](https://github.com/davewhiteland/compsci-superbasics) adapted to the needs of University of Oregon students and faculty by UO Libraries.
+Specifically, using browser-based learning means some competent autodidacts have
+learned to program entirely on the web (I'm looking at you 
+[codeskulptor](https://py3.codeskulptor.org)). Nothing wrong with this — on the
+contrary, it's amazing — but it means assumptions colleges make about students'
+tech exposure are much less reliable than they used to be.
 
 ## Jekyll
 
@@ -49,3 +55,6 @@ and the responsive hamburger is implemented using the
 label-of-hidden-checkbox CSS-only trick inspired by
 [Code Boxx'a css-ham-menu](https://code-boxx.com/).
 
+## Work in progress
+
+Work-in-Progress for 2020 — RHUL

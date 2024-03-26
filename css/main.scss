@@ -7,35 +7,22 @@ $base-font-size:    24px;
 $base-line-height:  1.5;
 $max-text-cover:    120rem;
 $spacing-unit:      1.5em;
-$blue:              #fee11a; //#adc9ea; /* changed to UO yellow */
-$yellow:            #fee11a; /* changed to UO yellow */
+$blue:              #ccddf3; //#adc9ea;
+$yellow:            #f7f099;
 $green:             #d8f3cb;
-$red:               #8ABB40; /*changed to lime green */
+$red:               #ffdddd;
 
 $think-odd-color:   #ffeecc;
 $think-even-color:  #ffdddd;
 
-/* changes the color of the background, which is currently a light, light gray */
 $body-bg-color:     #f2f2f2;
-
-/* changes the navigation bar's background color, currently Grass Green */
-$nav-bg-color:      #489D46;
-
-/* controls the color for every link in the entire site */
-$link-color:        #8D1D58;
-
-/* second dark link color */
-$link-color-dark:   #000000;
-
-/* controls the color for the link hover, which at this time I've changed to UO yellow */
-$link-hover:        #FEE11A;
-
+$nav-bg-color:      $green;
+$link-color:        #d21717;
+$link-hover:        #d54458;
 $link-focus-color:  #E40000;
-$topic-bg-color:    #FFFFFF;
+$topic-bg-color:    white;
 $topic-index-bg-color: $red;
-
-/* changes footer background color, currently lime green */
-$footer-bg-color:    #8ABB40;
+$footer-bg-color:   $blue;
 
 // The hamburger icons is rigged with a dirty bit of hard-width 
 // and shameful z-index bodging too so it overlaps with the

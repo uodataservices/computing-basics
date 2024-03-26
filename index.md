@@ -4,11 +4,12 @@ layout: home
 
 ---
 
-When you're starting programming, you need to know
+They might be basic, they might be simple, but until someone
+has pointed them out to you, how would you know?
+
+When you're starting studying Computer Science, you need to know
 how to use your computer. And that doesn't just mean
 clicking on things. _Anyone_ can do that.
 
-Learn keyboard shortcuts, how folders (directories) work and how to navigate them, and how to keep your work organized.
-
-Get on top of the fundamentals!
+Get on top of the superbasics!
 
