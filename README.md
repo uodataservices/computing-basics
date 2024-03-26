@@ -47,5 +47,5 @@ The CSS was originally based on the
 by [Anandu B Ajith](https://github.com/anandubajith)
 and the responsive hamburger is implemented using the
 label-of-hidden-checkbox CSS-only trick inspired by
-[Code Boxx'a css-ham-menu](https://code-boxx.com/).
+[Code Boxx'a css-ham-menu](https://code-boxx.com/). 
 
